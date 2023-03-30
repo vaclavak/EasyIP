@@ -5,6 +5,8 @@ This is a simple java project that will detect your private nad public IPv4 adre
 
 
 This project is open source and you can use the source code freely how you like
+The src is right now available only for InteliJ...
+Maybe I will add compatibility with eclipse or netbeans in the future
 
 THINGS YOU ARE NOT ALLOWED TO DO:
 - Use this code to steal someones IP adress
