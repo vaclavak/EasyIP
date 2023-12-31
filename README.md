@@ -1,3 +1,8 @@
+# WARNING:
+
+This project is really outdated, I propably wont release any more version, also my current project [ConsoleToolbox](https://github.com/vaclavak/ConsoleToolbox) can do the exact same, I recomend checking it out!
+
+
 # EasyIP
 Do you want to know your Ipv4 easily? This is the solution!
 ----------------------------------------------------------------------
